@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "1c047bdc34a6a5a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e81a1311daefaf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92bdc35bbac209c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manuais/Tutorial do jogo/Próximas partidas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Próximas partidas"
+            }
+          },
+          {
+            "id": "43794e5946c0e3df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manuais/Livro de Regras/Pontuação-padrão para feitos heroicos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pontuação-padrão para feitos heroicos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a53e34614207c955",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5f1efb8782e5bd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13a5585958b9a38e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "06c6c1cf89be6cd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "fama",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ab7b43da875d4e39",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e87109dc6bd06ddb",
+    "type": "split",
+    "children": [
+      {
+        "id": "10fd99a826df6f8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "456bc90cceb31a25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Manuais/Tutorial do jogo/Próximas partidas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Próximas partidas"
+            }
+          },
+          {
+            "id": "58b3835887ca2908",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Manuais/Tutorial do jogo/Próximas partidas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Próximas partidas"
+            }
+          },
+          {
+            "id": "2311d43b9888f3cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ab9289a1eaf7cf6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Manuais/Tutorial do jogo/Próximas partidas.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Próximas partidas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "92bdc35bbac209c9",
+  "lastOpenFiles": [
+    "Manuais/Livro de Regras/Pontuação-padrão para feitos heroicos.md",
+    "Manuais/Tutorial do jogo/Próximas partidas.md",
+    "Manuais/Livro de Regras/Cooperação para invadir uma cidade.md",
+    "Manuais/Livro de Regras/Invasão de cidades.md",
+    "Manuais/Tutorial do jogo/Componentes do jogo.md",
+    "index.md"
+  ]
+}
