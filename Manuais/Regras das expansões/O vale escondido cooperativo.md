@@ -1,4 +1,4 @@
-> [[Sombras de Tezla (cenários)]] [[O vale escondido (visão geral)]] #cenario 
+> [[O vale escondido (visão geral)]] #cenario 
 
 - **Jogadores**: 2 a 4
 - **Tipo**: Cooperativo

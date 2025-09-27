@@ -1,5 +1,3 @@
-> [[Sombras de Tezla (cenários)]]
-
 - **Duração**: Quatro rodadas (2 dias e 2 noites)
 - **Perfil**: Encontre o Vale Escondido e derrote a Suma Sacerdotisa.
 

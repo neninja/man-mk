@@ -1,5 +1,3 @@
-> [[Sombras de Tezla (cenários)]]
-
 - **Duração**: Duas rodadas (1 dia e 1 noite)
 - **Perfil**: Encontrar todas as partes de uma antiga relíquia nas ruínas de antigas cidades.
 

@@ -1,4 +1,4 @@
-> [[Sombras de Tezla (cenários)]] [[A relíquia perdida (visão geral)]] #cenario 
+> [[A relíquia perdida (visão geral)]] #cenario 
 
 - **Jogadores**: 2 a 4 (Você precisará da expansão A Legião Perdida para jogar em 4)
 - **Tipo**: Cooperativo

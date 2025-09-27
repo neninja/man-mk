@@ -1,4 +1,4 @@
-> [[Sombras de Tezla (cenários)]] [[Vida e morte (visão geral)]] #cenario 
+> [[Vida e morte (visão geral)]] #cenario 
 
 - **Jogadores**: 2 a 4
 - **Tipo**: Cooperativo

@@ -1,5 +1,3 @@
-> [[Sombras de Tezla (cenários)]]
-
 - **Duração**: Seis rodadas (3 dias e 3 noites)
 - **Perfil**: Cenário completo contra as forças da vida e da morte. Os Elementalistas e os Cruzados Sombrios estão em guerra. O Conselho do Vazio quer que você tire vantagem dessa situação e invada o território inimigo para destruir os Avatares de Tezla: o Espírito de Tezla dos Elementalistas e a Tezla Sombria dos Cruzados Sombrios.
 

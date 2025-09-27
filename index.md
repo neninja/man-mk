@@ -7,3 +7,4 @@ Site de fã com as instruções de como jogar [Mage Knight](https://ludopedia.co
 
 - *Começando* instrui jogadores novos
 - *Manuais* são transcrições de arquivos publicados que servem como referência
+- #cenario é uma tag que categoriza as "missões" do jogo de diferentes fontes[]()

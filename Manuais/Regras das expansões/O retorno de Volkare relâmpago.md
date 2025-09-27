@@ -1,4 +1,4 @@
-> [[A legião perdida (cenários)]] #cenario
+> #cenario
 
 Mesmas regras da [[O retorno de Volkare épico|variante Épica]], exceto:
 - O limite de tempo é apenas dois dias e duas noites.

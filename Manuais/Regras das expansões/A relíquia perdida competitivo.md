@@ -1,4 +1,4 @@
-> [[Sombras de Tezla (cenários)]] [[A relíquia perdida (visão geral)]] #cenario 
+> [[A relíquia perdida (visão geral)]] #cenario 
 
 - **Jogadores**: 2 a 4
 - **Tipo**: Competitivo

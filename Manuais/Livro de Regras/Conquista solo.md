@@ -1,4 +1,4 @@
-> [[Lista de cenários]] #cenario
+> #cenario
 
 - **Jogadores**: 1
 - **Tipo**: Solo

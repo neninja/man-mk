@@ -1,4 +1,4 @@
-> [[Lista de cenários]] #cenario
+> #cenario
 
 - **Jogadores**: 2 ou 4 (duas equipes)
 - **Tipo**: Muito Competitivo

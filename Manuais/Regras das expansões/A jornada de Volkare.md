@@ -1,4 +1,4 @@
-> [[A legião perdida (cenários)]] #cenario
+> #cenario
 
 - **Jogadores**: 1 a 4.
 - **Tipo**: Solo ou cooperativo.

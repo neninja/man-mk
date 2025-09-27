@@ -1,4 +1,4 @@
-> [[Sombras de Tezla (cenários)]] [[O reino dos mortos (visão geral)]] #cenario 
+> [[O reino dos mortos (visão geral)]] #cenario 
 
 - **Jogadores**: 2 a 4
 - **Tipo**: Competitivo

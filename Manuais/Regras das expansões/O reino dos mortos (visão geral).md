@@ -1,5 +1,3 @@
-> [[Sombras de Tezla (cenários)]]
-
 - **Duração**: Quatro rodadas (2 dias e 2 noites)
 - **Perfil**: Derrotar o Lorde Necromante e limpar o Reino dos Mortos.
 
